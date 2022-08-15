@@ -1,0 +1,4 @@
+buskina;alexandra;585766;home
+gorbunow;wadim;9998;work
+grushin;serg;090877;home
+turina;kate;676886;home
